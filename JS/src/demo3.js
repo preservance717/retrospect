@@ -24,14 +24,13 @@ console.log("4" - "3");
 
 /*使用Boolean函数将各种类型的值转换为布尔值
  除了以下几个值转化为false，其他的值都被转化为true
- console.log(Boolean(undefined));
+ console.log(Boolean(undefined)); => !!undefined == false
  console.log(Boolean(null));
  console.log(Boolean(0));
  console.log(Boolean(-0));
  console.log(Boolean(''));
  console.log(Boolean(NaN));
  */
-
 /*除了加法运算符，当其它运算符的运算数都会被强制转化为Number类型
  console.log(true+2);
  console.log(5 + []);
