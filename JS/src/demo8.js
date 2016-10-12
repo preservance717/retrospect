@@ -20,7 +20,6 @@ person.fullName();
 */
 
 var a =1;
-
 function b() {
     console.log(this);
 }
