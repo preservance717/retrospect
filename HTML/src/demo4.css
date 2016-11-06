@@ -1,0 +1,19 @@
+.div1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    margin-left: 150px;
+}
+
+.div2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    margin:15px 0px 0px 80px;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    margin:-102px 0px 0px 220px;
+}
